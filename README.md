@@ -4,16 +4,16 @@ Clima is a weather app made in The Complete 2021 Flutter Development Bootcamp wi
 
 ## This project will practice
 
-1.Routing in Flutter  
-2.Networking in Flutter  
-3.Basic State Management on Flutter  
-4.OOP basics on Flutter and Dart  
-5.Using location in Flutter
+1. Routing in Flutter
+2. Networking in Flutter
+3. Basic State Management on Flutter
+4. OOP basics on Flutter and Dart
+5. Using location in Flutter
 
 ## How to run the app
 
-1.Download the code  
-2.flutter run
+1. Download the code
+2. flutter run
 
 ## What the app looks like
 
