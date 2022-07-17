@@ -13,7 +13,7 @@ Clima is a weather app made in The Complete 2021 Flutter Development Bootcamp wi
 ## How to run the app
 
 1. Download the code
-2. flutter run
+2. `flutter run`
 
 ## What the app looks like
 
