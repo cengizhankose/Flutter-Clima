@@ -1,6 +1,6 @@
 # Clima ☁
 
-Clima is a weather app made in The Complete 2021 Flutter Development Bootcamp with Dart udemy course.
+Clima is a weather app made in [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/?utm_source=adwords&utm_medium=udemyads&utm_campaign=GoogleFlutter_v.PROF_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_121857710297_._ad_535397282067_._kw__._de_c_._dm__._pl__._ti_dsa-1184681151762_._li_1012782_._pd__._&matchtype=) udemy course.
 
 ## This project will practice
 
